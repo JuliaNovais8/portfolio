@@ -1,2 +1,2 @@
 # portfolio
-Amostra do projeto: portfolio-julianovais8.vercel.app
+Amostra do projeto: http://portfolio-julianovais8.vercel.app
